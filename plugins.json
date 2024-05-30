@@ -1,0 +1,13 @@
+[
+  {
+    "internalName": "PrayerFlicker",
+    "hash": "C646989698BB3BED12FDC0A6FE0D8587EE2619071E8218C1698D40386DC2D2C5",
+    "size": 4096,
+    "plugins": [
+      "PrayerFlicker"
+    ],
+    "displayName": "PrayerFlicker",
+    "description": "",
+    "provider": "itsche91"
+  }
+]
